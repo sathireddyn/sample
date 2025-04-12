@@ -17,4 +17,5 @@ one more commit just
 
 public checking getWheteher() {
     return wheteher;
-} 
+}
+///// to sample.java2
