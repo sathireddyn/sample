@@ -11,3 +11,10 @@ public class sample
 
 checking wheteher it is commited
 ///////
+
+
+one more commit just
+
+public checking getWheteher() {
+    return wheteher;
+} 
