@@ -7,3 +7,7 @@ public class sample
     }
 
 }
+//////////
+
+checking wheteher it is commited
+///////
